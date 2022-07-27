@@ -1,6 +1,6 @@
 #%%
 """
-Created on July 05  2021
+Created on July 05 2021
 Impact of conditional expectation pricing (Black-Scholes with Jump volatility)
 
 This code is purely educational and comes from "Financial Engineering" course by L.A. Grzelak
